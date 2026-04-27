@@ -1,0 +1,8 @@
+# Mengabaikan file hasil build (exe)
+*.exe
+*.out
+
+# Mengabaikan folder environment / IDE
+.vscode/
+.idea/
+.env
